@@ -25,5 +25,4 @@ Design requirements:
 * pps. 如有不足，欢迎批评指出！
 
 * Just leave a souvenir. The algorithm will not be explained for the time being. 
-* Algorithm reference: https://www.write-bug.com/article/1277.html
 * If there is any deficiency, please point out it!
