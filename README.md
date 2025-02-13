@@ -21,7 +21,7 @@ Design requirements:
 (3) Add edit maze function, you can modify the current maze, modify the content: wall to road, road to wall;
 (4) Find all the paths out of the maze, and the shortest path.
 ```
-* ps. 单纯留个纪念，算法暂时不做解释（以后也许解释？）。算法参考：https://www.write-bug.com/article/1277.html
+* ps. 单纯留个纪念，算法暂时不做解释（以后也许解释？）
 * pps. 如有不足，欢迎批评指出！
 
 * Just leave a souvenir. The algorithm will not be explained for the time being. 
